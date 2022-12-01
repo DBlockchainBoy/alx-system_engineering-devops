@@ -1,1 +1,1 @@
-This repository contains all the shell, basics projects
+All scripts for the shell, basics projects
